@@ -9,6 +9,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Running through the 6 with me woes -Drake");
         }
     }
 }
