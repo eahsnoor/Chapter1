@@ -9,7 +9,7 @@ namespace Name
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Name");
+            Console.WriteLine("Noor and Marlyn");
         }
     }
 }
